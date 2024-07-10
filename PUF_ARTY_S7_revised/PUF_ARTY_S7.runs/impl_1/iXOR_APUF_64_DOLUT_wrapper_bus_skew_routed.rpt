@@ -1,0 +1,16 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
+| Date         : Fri Jun 14 10:29:12 2024
+| Host         : DESKTOP-42VHPU2 running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file iXOR_APUF_64_DOLUT_wrapper_bus_skew_routed.rpt -pb iXOR_APUF_64_DOLUT_wrapper_bus_skew_routed.pb -rpx iXOR_APUF_64_DOLUT_wrapper_bus_skew_routed.rpx
+| Design       : iXOR_APUF_64_DOLUT_wrapper
+| Device       : 7a100t-csg324
+| Speed File   : -2L  PRODUCTION 1.23 2018-06-13
+| Design State : Routed
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

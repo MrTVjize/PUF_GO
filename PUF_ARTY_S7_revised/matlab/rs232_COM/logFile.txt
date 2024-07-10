@@ -1,0 +1,8428 @@
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.
+test_and_clear: Ok.
+write_challenge: writing...
+test_and_clear: Ok.
+read_challenge: reading...
+test_and_clear: Ok.
+start_puf: waiting for ack
+test_and_clear: Ok.
+wait_puf: PUF is being evaluated...
+Finished!
+
+test_and_clear: Ok.                    

@@ -1,0 +1,110 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
+| Date         : Fri Jun 14 10:28:40 2024
+| Host         : DESKTOP-42VHPU2 running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file iXOR_APUF_64_DOLUT_wrapper_control_sets_placed.rpt
+| Design       : iXOR_APUF_64_DOLUT_wrapper
+| Device       : xc7a100t
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Total control sets                                       |    32 |
+|    Minimum number of control sets                        |    32 |
+|    Addition due to synthesis replication                 |     0 |
+|    Addition due to physical synthesis replication        |     0 |
+| Unused register locations in slices containing registers |    40 |
++----------------------------------------------------------+-------+
+* Control sets can be merged at opt_design using control_set_merge or merge_equivalent_drivers
+** Run report_qor_suggestions for automated merging and remapping suggestions
+
+
+2. Histogram
+------------
+
++--------------------+-------+
+|       Fanout       | Count |
++--------------------+-------+
+| Total control sets |    32 |
+| >= 0 to < 4        |     4 |
+| >= 4 to < 6        |     0 |
+| >= 6 to < 8        |     1 |
+| >= 8 to < 10       |    21 |
+| >= 10 to < 12      |     1 |
+| >= 12 to < 14      |     1 |
+| >= 14 to < 16      |     0 |
+| >= 16              |     4 |
++--------------------+-------+
+* Control sets can be remapped at either synth_design or opt_design
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |             110 |           45 |
+| No           | No                    | Yes                    |               0 |            0 |
+| No           | Yes                   | No                     |              24 |           10 |
+| Yes          | No                    | No                     |             140 |           51 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |             142 |           60 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++----------------+----------------------------------+-----------------------------------+------------------+----------------+--------------+
+|  Clock Signal  |           Enable Signal          |          Set/Reset Signal         | Slice Load Count | Bel Load Count | Bels / Slice |
++----------------+----------------------------------+-----------------------------------+------------------+----------------+--------------+
+|  clk_IBUF_BUFG | PUF_CU/CHAl_16_PORT0             |                                   |                1 |              1 |         1.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_10_PORT0             |                                   |                1 |              1 |         1.00 |
+|  clk_IBUF_BUFG | PUF_CU/processor/flag_enable     | PUF_CU/processor/internal_reset   |                1 |              2 |         2.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_1_PORT0              |                                   |                1 |              2 |         2.00 |
+|  clk_IBUF_BUFG |                                  | PUF_CU/processor/internal_reset   |                3 |              6 |         2.00 |
+|  clk_IBUF_BUFG |                                  | PUF_CU/program_rom/instruction[7] |                4 |              8 |         2.00 |
+|  clk_IBUF_BUFG | PUF_CU/processor/spm_enable      |                                   |                2 |              8 |         4.00 |
+|  clk_IBUF_BUFG | PUF_CU/receiver/buffer_write     |                                   |                1 |              8 |         8.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_24_PORT0             |                                   |                2 |              8 |         4.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_17_PORT0             |                                   |                2 |              8 |         4.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_21_PORT0             |                                   |                3 |              8 |         2.67 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_5_PORT0              |                                   |                4 |              8 |         2.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_23_PORT0             |                                   |                3 |              8 |         2.67 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_3_PORT0              |                                   |                5 |              8 |         1.60 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_7_PORT0              |                                   |                3 |              8 |         2.67 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_8_PORT0              |                                   |                2 |              8 |         4.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_19_PORT0             |                                   |                2 |              8 |         4.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_20_PORT0             |                                   |                2 |              8 |         4.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_18_PORT0             |                                   |                2 |              8 |         4.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_4_PORT0              |                                   |                2 |              8 |         4.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_2_PORT0              |                                   |                3 |              8 |         2.67 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_9_PORT0              |                                   |                5 |              8 |         1.60 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_6_PORT0              |                                   |                2 |              8 |         4.00 |
+|  clk_IBUF_BUFG | PUF_CU/CHAl_22_PORT0             |                                   |                3 |              8 |         2.67 |
+|  clk_IBUF_BUFG | PUF_CU/write_to_uart             |                                   |                1 |              8 |         8.00 |
+|  clk_IBUF_BUFG | PUF_CU/in_port[7]_i_1_n_0        |                                   |                3 |              8 |         2.67 |
+|  clk_IBUF_BUFG |                                  | PUF_CU/baud_count[9]_i_1_n_0      |                3 |             10 |         3.33 |
+|  clk_IBUF_BUFG | PUF_CU/processor/t_state_0       | PUF_CU/processor/internal_reset   |                3 |             12 |         4.00 |
+|  clk_IBUF_BUFG | PUF_CU/processor/register_enable |                                   |                2 |             16 |         8.00 |
+|  clk_IBUF_BUFG | PUF_CU/processor/t_state_0       |                                   |                2 |             16 |         8.00 |
+|  clk_IBUF_BUFG |                                  |                                   |               45 |            110 |         2.44 |
+|  clk_IBUF_BUFG | challenge                        | p_0_in                            |               56 |            128 |         2.29 |
++----------------+----------------------------------+-----------------------------------+------------------+----------------+--------------+
+
+

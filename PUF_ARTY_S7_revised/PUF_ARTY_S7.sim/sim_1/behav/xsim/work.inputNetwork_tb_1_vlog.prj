@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/sw_dolut/sw_dolut.v" \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/apuf/switchChain.v" \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/apuf/nandLatch.v" \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/picoBlaze6/uart_tx6.v" \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/picoBlaze6/uart_rx6.v" \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/picoBlaze6/program.v" \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/picoBlaze6/kcpsm6.v" \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/apuf/apufClassic.v" \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/xorpuf/xorpuf.v" \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/picoBlaze6/puf_controller_6.v" \
+"../../../../PUF_ARTY_S7.srcs/sources_1/imports/veriolg/apuf/apufClassic_wrapper.v" \
+"../../../../PUF_ARTY_S7.srcs/sim_1/imports/tb/sw_dolut_tb.v" \
+"../../../../PUF_ARTY_S7.srcs/sim_1/imports/tb/inputNetwork_tb_1.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

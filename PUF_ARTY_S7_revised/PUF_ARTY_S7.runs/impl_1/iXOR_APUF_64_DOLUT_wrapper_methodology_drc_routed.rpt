@@ -1,0 +1,2441 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
+| Date         : Fri Jun 14 10:29:11 2024
+| Host         : DESKTOP-42VHPU2 running 64-bit major release  (build 9200)
+| Command      : report_methodology -file iXOR_APUF_64_DOLUT_wrapper_methodology_drc_routed.rpt -pb iXOR_APUF_64_DOLUT_wrapper_methodology_drc_routed.pb -rpx iXOR_APUF_64_DOLUT_wrapper_methodology_drc_routed.rpx
+| Design       : iXOR_APUF_64_DOLUT_wrapper
+| Device       : xc7a100tcsg324-2L
+| Speed File   : -2L
+| Design State : Fully Routed
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max violations: <unlimited>
+             Violations found: 481
++-----------+------------------+-----------------------------+------------+
+| Rule      | Severity         | Description                 | Violations |
++-----------+------------------+-----------------------------+------------+
+| TIMING-17 | Critical Warning | Non-clocked sequential cell | 473        |
+| TIMING-23 | Warning          | Combinational loop found    | 8          |
++-----------+------------------+-----------------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+TIMING-17#1 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAL_EN_PORT_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#2 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_10_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#3 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_16_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#4 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_17_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#5 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_17_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#6 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_17_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#7 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_17_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#8 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_17_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#9 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_17_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#10 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_17_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#11 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_17_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#12 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_18_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#13 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_18_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#14 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_18_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#15 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_18_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#16 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_18_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#17 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_18_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#18 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_18_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#19 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_18_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#20 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_19_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#21 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_19_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#22 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_19_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#23 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_19_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#24 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_19_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#25 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_19_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#26 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_19_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#27 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_19_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#28 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_1_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#29 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_1_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#30 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_20_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#31 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_20_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#32 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_20_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#33 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_20_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#34 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_20_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#35 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_20_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#36 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_20_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#37 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_20_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#38 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_21_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#39 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_21_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#40 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_21_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#41 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_21_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#42 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_21_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#43 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_21_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#44 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_21_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#45 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_21_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#46 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_22_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#47 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_22_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#48 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_22_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#49 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_22_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#50 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_22_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#51 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_22_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#52 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_22_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#53 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_22_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#54 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_23_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#55 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_23_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#56 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_23_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#57 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_23_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#58 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_23_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#59 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_23_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#60 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_23_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#61 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_23_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#62 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_24_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#63 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_24_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#64 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_24_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#65 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_24_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#66 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_24_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#67 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_24_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#68 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_24_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#69 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_24_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#70 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_2_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#71 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_2_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#72 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_2_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#73 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_2_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#74 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_2_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#75 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_2_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#76 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_2_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#77 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_2_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#78 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_3_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#79 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_3_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#80 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_3_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#81 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_3_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#82 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_3_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#83 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_3_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#84 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_3_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#85 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_3_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#86 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_4_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#87 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_4_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#88 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_4_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#89 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_4_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#90 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_4_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#91 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_4_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#92 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_4_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#93 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_4_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#94 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_5_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#95 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_5_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#96 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_5_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#97 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_5_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#98 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_5_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#99 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_5_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#100 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_5_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#101 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_5_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#102 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_6_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#103 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_6_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#104 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_6_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#105 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_6_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#106 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_6_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#107 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_6_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#108 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_6_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#109 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_6_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#110 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_7_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#111 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_7_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#112 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_7_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#113 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_7_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#114 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_7_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#115 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_7_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#116 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_7_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#117 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_7_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#118 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_8_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#119 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_8_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#120 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_8_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#121 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_8_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#122 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_8_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#123 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_8_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#124 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_8_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#125 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_8_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#126 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_9_PORT_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#127 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_9_PORT_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#128 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_9_PORT_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#129 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_9_PORT_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#130 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_9_PORT_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#131 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_9_PORT_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#132 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_9_PORT_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#133 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/CHAl_9_PORT_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#134 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/baud_count_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#135 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/baud_count_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#136 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/baud_count_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#137 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/baud_count_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#138 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/baud_count_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#139 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/baud_count_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#140 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/baud_count_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#141 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/baud_count_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#142 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/baud_count_reg[8]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#143 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/baud_count_reg[9]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#144 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/en_16_x_baud_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#145 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/in_port_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#146 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/in_port_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#147 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/in_port_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#148 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/in_port_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#149 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/in_port_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#150 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/in_port_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#151 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/in_port_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#152 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/in_port_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#153 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[0].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#154 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[0].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#155 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[10].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#156 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[10].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#157 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[11].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#158 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[11].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#159 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[1].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#160 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[1].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#161 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[2].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#162 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[2].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#163 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[3].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#164 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[3].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#165 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[4].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#166 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[4].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#167 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[5].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#168 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[5].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#169 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[6].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#170 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[6].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#171 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[7].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#172 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[7].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#173 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[8].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#174 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[8].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#175 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[9].pc_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#176 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/address_loop[9].return_vector_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#177 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/alu_mux_sel0_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#178 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/alu_mux_sel1_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#179 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/arith_carry_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#180 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/bank_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#181 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/carry_flag_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#182 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[0].arith_logical_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#183 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[0].low_hwbuild.shift_rotate_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#184 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[0].small_spm.small_spm_ram.spm_ram/RAMA/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#185 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[0].small_spm.small_spm_ram.spm_ram/RAMB/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#186 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[0].small_spm.small_spm_ram.spm_ram/RAMC/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#187 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[0].small_spm.small_spm_ram.spm_ram/RAMD/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#188 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[0].small_spm.spm_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#189 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[1].arith_logical_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#190 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[1].low_hwbuild.shift_rotate_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#191 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[1].small_spm.spm_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#192 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[2].arith_logical_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#193 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[2].low_hwbuild.shift_rotate_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#194 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[2].small_spm.spm_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#195 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[3].arith_logical_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#196 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[3].low_hwbuild.shift_rotate_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#197 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[3].small_spm.spm_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#198 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[4].arith_logical_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#199 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[4].low_hwbuild.shift_rotate_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#200 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[4].small_spm.small_spm_ram.spm_ram/RAMA/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#201 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[4].small_spm.small_spm_ram.spm_ram/RAMB/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#202 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[4].small_spm.small_spm_ram.spm_ram/RAMC/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#203 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[4].small_spm.small_spm_ram.spm_ram/RAMD/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#204 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[4].small_spm.spm_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#205 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[5].arith_logical_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#206 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[5].low_hwbuild.shift_rotate_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#207 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[5].small_spm.spm_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#208 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[6].arith_logical_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#209 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[6].low_hwbuild.shift_rotate_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#210 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[6].small_spm.spm_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#211 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[7].arith_logical_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#212 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[7].low_hwbuild.shift_rotate_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#213 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/data_path_loop[7].small_spm.spm_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#214 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/flag_enable_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#215 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/internal_reset_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#216 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/lower_reg_banks/RAMA/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#217 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/lower_reg_banks/RAMA_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#218 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/lower_reg_banks/RAMB/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#219 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/lower_reg_banks/RAMB_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#220 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/lower_reg_banks/RAMC/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#221 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/lower_reg_banks/RAMC_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#222 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/lower_reg_banks/RAMD/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#223 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/lower_reg_banks/RAMD_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#224 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/read_strobe_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#225 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/register_enable_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#226 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/run_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#227 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/shadow_bank_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#228 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/shadow_carry_flag_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#229 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/shadow_zero_flag_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#230 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/shift_carry_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#231 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/spm_enable_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#232 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_bit_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#233 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_loop[0].lsb_stack.pointer_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#234 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_loop[1].upper_stack.pointer_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#235 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_loop[2].upper_stack.pointer_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#236 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_loop[3].upper_stack.pointer_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#237 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_loop[4].upper_stack.pointer_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#238 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_high/RAMA/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#239 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_high/RAMA_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#240 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_high/RAMB/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#241 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_high/RAMB_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#242 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_high/RAMC/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#243 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_high/RAMC_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#244 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_high/RAMD/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#245 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_high/RAMD_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#246 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_low/RAMA/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#247 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_low/RAMA_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#248 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_low/RAMB/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#249 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_low/RAMB_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#250 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_low/RAMC/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#251 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_low/RAMC_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#252 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_low/RAMD/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#253 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_ram_low/RAMD_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#254 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/stack_zero_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#255 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/sx_addr4_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#256 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/t_state1_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#257 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/t_state2_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#258 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/upper_reg_banks/RAMA/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#259 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/upper_reg_banks/RAMA_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#260 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/upper_reg_banks/RAMB/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#261 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/upper_reg_banks/RAMB_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#262 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/upper_reg_banks/RAMC/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#263 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/upper_reg_banks/RAMC_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#264 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/upper_reg_banks/RAMD/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#265 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/upper_reg_banks/RAMD_D1/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#266 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/use_zero_flag_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#267 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/write_strobe_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#268 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/processor/zero_flag_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#269 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/program_rom/PUF_CU/program_rom/ram_2k_generate.akv7.kcpsm6_rom_cooolgate_en_gate_1_cooolDelFlop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#270 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/program_rom/PUF_CU/program_rom/ram_2k_generate.akv7.kcpsm6_rom_cooolgate_en_gate_2_cooolDelFlop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#271 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/program_rom/PUF_CU/program_rom/ram_2k_generate.akv7.kcpsm6_rom_cooolgate_en_gate_3_cooolDelFlop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#272 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/program_rom/ram_2k_generate.akv7.kcpsm6_rom/CLKARDCLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#273 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/read_from_uart_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#274 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/buffer_write_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#275 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data0_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#276 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data1_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#277 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data2_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#278 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data3_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#279 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data4_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#280 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data5_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#281 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data6_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#282 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data7_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#283 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data_present_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#284 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data_width_loop[0].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#285 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data_width_loop[1].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#286 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data_width_loop[2].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#287 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data_width_loop[3].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#288 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data_width_loop[4].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#289 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data_width_loop[5].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#290 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data_width_loop[6].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#291 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/data_width_loop[7].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#292 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/div0_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#293 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/div1_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#294 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/div2_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#295 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/div3_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#296 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/pointer0_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#297 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/pointer1_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#298 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/pointer2_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#299 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/pointer3_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#300 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/run_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#301 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/sample_dly_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#302 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/sample_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#303 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/sample_input_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#304 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/start_bit_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#305 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/receiver/stop_bit_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#306 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_present_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#307 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[0].storage_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#308 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[0].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#309 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[1].storage_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#310 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[1].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#311 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[2].storage_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#312 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[2].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#313 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[3].storage_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#314 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[3].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#315 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[4].storage_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#316 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[4].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#317 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[5].storage_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#318 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[5].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#319 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[6].storage_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#320 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[6].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#321 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[7].storage_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#322 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/data_width_loop[7].storage_srl/CLK is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#323 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/div0_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#324 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/div1_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#325 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/div2_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#326 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/div3_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#327 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/next_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#328 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/pointer0_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#329 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/pointer1_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#330 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/pointer2_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#331 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/pointer3_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#332 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/read_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#333 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/serial_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#334 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/sm0_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#335 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/sm1_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#336 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/sm2_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#337 Critical Warning
+Non-clocked sequential cell  
+The clock pin PUF_CU/transmitter/sm3_flop/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#338 Critical Warning
+Non-clocked sequential cell  
+The clock pin XAPUF/PUFList[0].APUF/tigReg_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#339 Critical Warning
+Non-clocked sequential cell  
+The clock pin XAPUF/PUFList[1].APUF/tigReg_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#340 Critical Warning
+Non-clocked sequential cell  
+The clock pin XAPUF/PUFList[2].APUF/tigReg_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#341 Critical Warning
+Non-clocked sequential cell  
+The clock pin XAPUF/PUFList[3].APUF/tigReg_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#342 Critical Warning
+Non-clocked sequential cell  
+The clock pin XAPUF/PUFList[4].APUF/tigReg_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#343 Critical Warning
+Non-clocked sequential cell  
+The clock pin XAPUF/PUFList[5].APUF/tigReg_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#344 Critical Warning
+Non-clocked sequential cell  
+The clock pin XAPUF/PUFList[6].APUF/tigReg_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#345 Critical Warning
+Non-clocked sequential cell  
+The clock pin XAPUF/PUFList[7].APUF/tigReg_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#346 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#347 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[100]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#348 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[101]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#349 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[102]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#350 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[103]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#351 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[104]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#352 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[105]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#353 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[106]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#354 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[107]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#355 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[108]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#356 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[109]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#357 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[10]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#358 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[110]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#359 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[111]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#360 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[112]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#361 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[113]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#362 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[114]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#363 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[115]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#364 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[116]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#365 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[117]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#366 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[118]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#367 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[119]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#368 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[11]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#369 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[120]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#370 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[121]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#371 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[122]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#372 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[123]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#373 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[124]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#374 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[125]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#375 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[126]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#376 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[127]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#377 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[12]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#378 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[13]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#379 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[14]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#380 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[15]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#381 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[16]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#382 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[17]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#383 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[18]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#384 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[19]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#385 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#386 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[20]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#387 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[21]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#388 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[22]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#389 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[23]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#390 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[24]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#391 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[25]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#392 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[26]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#393 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[27]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#394 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[28]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#395 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[29]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#396 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#397 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[30]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#398 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[31]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#399 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[32]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#400 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[33]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#401 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[34]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#402 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[35]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#403 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[36]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#404 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[37]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#405 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[38]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#406 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[39]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#407 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#408 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[40]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#409 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[41]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#410 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[42]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#411 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[43]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#412 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[44]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#413 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[45]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#414 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[46]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#415 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[47]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#416 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[48]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#417 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[49]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#418 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#419 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[50]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#420 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[51]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#421 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[52]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#422 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[53]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#423 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[54]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#424 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[55]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#425 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[56]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#426 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[57]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#427 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[58]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#428 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[59]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#429 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#430 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[60]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#431 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[61]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#432 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[62]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#433 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[63]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#434 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[64]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#435 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[65]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#436 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[66]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#437 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[67]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#438 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[68]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#439 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[69]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#440 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#441 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[70]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#442 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[71]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#443 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[72]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#444 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[73]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#445 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[74]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#446 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[75]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#447 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[76]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#448 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[77]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#449 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[78]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#450 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[79]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#451 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#452 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[80]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#453 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[81]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#454 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[82]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#455 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[83]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#456 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[84]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#457 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[85]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#458 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[86]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#459 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[87]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#460 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[88]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#461 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[89]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#462 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[8]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#463 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[90]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#464 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[91]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#465 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[92]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#466 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[93]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#467 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[94]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#468 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[95]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#469 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[96]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#470 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[97]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#471 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[98]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#472 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[99]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#473 Critical Warning
+Non-clocked sequential cell  
+The clock pin challenge_reg[9]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-23#1 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between XAPUF/PUFList[0].APUF/ARBITER/X/I1 and XAPUF/PUFList[0].APUF/ARBITER/X/O to disable the timing loop
+Related violations: <none>
+
+TIMING-23#2 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between XAPUF/PUFList[1].APUF/ARBITER/X/I1 and XAPUF/PUFList[1].APUF/ARBITER/X/O to disable the timing loop
+Related violations: <none>
+
+TIMING-23#3 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between XAPUF/PUFList[2].APUF/ARBITER/X/I1 and XAPUF/PUFList[2].APUF/ARBITER/X/O to disable the timing loop
+Related violations: <none>
+
+TIMING-23#4 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between XAPUF/PUFList[3].APUF/ARBITER/X/I1 and XAPUF/PUFList[3].APUF/ARBITER/X/O to disable the timing loop
+Related violations: <none>
+
+TIMING-23#5 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between XAPUF/PUFList[4].APUF/ARBITER/X/I1 and XAPUF/PUFList[4].APUF/ARBITER/X/O to disable the timing loop
+Related violations: <none>
+
+TIMING-23#6 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between XAPUF/PUFList[5].APUF/ARBITER/X/I1 and XAPUF/PUFList[5].APUF/ARBITER/X/O to disable the timing loop
+Related violations: <none>
+
+TIMING-23#7 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between XAPUF/PUFList[6].APUF/ARBITER/X/I1 and XAPUF/PUFList[6].APUF/ARBITER/X/O to disable the timing loop
+Related violations: <none>
+
+TIMING-23#8 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between XAPUF/PUFList[7].APUF/ARBITER/X/I1 and XAPUF/PUFList[7].APUF/ARBITER/X/O to disable the timing loop
+Related violations: <none>
+
+
